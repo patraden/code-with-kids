@@ -58,7 +58,7 @@ func WriteOutput(buckets [4]Bucket, matches []TeamPair, path string) error {
 	bucketNames := []string{"A", "B", "C", "D"}
 
 	for i, bucket := range buckets {
-		fmt.Fprintf(file, "Bucket %s:\n", bucketNames[i])
+		fmt.Fprintf(file, "Group %s:\n", bucketNames[i])
 		for _, team := range bucket {
 			fmt.Fprintln(file, team)
 		}

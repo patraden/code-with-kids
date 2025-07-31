@@ -1,189 +1,189 @@
-Bucket A:
-Bayern Munich
-RB Leipzig
-Spartak Moscow
-Royal Antwerp
-Celtic
-Braga
-Napoli
+Group A:
+Lazio
+Atlético Madrid
+Olympique de Marseille
+K.R.C. Genk
+Manchester City
+Chelsea
+Bayer Leverkusen
+AFC Ajax
+Olympiacos
+
+Group B:
 Porto
+Sibir Novosibirsk
+Tottenham Hotspur
+Benfica
+Bayern Munich
+Inter Milan
+AC Milan  
+Arsenal
+Olimpia
+
+Group C:
+CSKA Moscow
+Villarreal
+Paris Saint-Germain
+FK Partizan
+Borussia Dortmund
+Shakhtar Donetsk
+Manchester United
+Eintracht Frankfurt
+AS Monaco
+
+Group D:
+Barcelona
+Juventus
+OKA
+Crvena Zvezda
+Porto 2
+Spartak Moscow
+Real Madrid
+Paok
 PSV Eindhoven
 
-Bucket B:
-Crvena Zvezda
-Benfica
-Union Berlin
-Borussia Dortmund
-Barcelona
-CSKA Moscow
-Real Madrid
-Feyenoord
-Arsenal
-
-Bucket C:
-Shakhtar Donetsk
-Red Bull Salzburg
-Lazio
-Paris Saint-Germain
-Zenit Saint Petersburg
-Real Sociedad
-AC Milan  
-Juventus
-Atlético Madrid
-
-Bucket D:
-Inter Milan
-Lens
-Galatasaray
-Newcastle United
-Bayer Leverkusen
-Sevilla
-Manchester City
-Copenhagen
-Young Boys
-
 Matches:
-Bayern Munich - RB Leipzig
-Spartak Moscow - Bayern Munich
-RB Leipzig - Spartak Moscow
-Royal Antwerp - Celtic
-Braga - Royal Antwerp
-Celtic - Braga
-Napoli - Porto
-PSV Eindhoven - Napoli
-Porto - PSV Eindhoven
-Crvena Zvezda - Benfica
-Union Berlin - Crvena Zvezda
-Benfica - Union Berlin
-Borussia Dortmund - Barcelona
-CSKA Moscow - Borussia Dortmund
-Barcelona - CSKA Moscow
-Real Madrid - Feyenoord
-Arsenal - Real Madrid
-Feyenoord - Arsenal
-Shakhtar Donetsk - Red Bull Salzburg
-Lazio - Shakhtar Donetsk
-Red Bull Salzburg - Lazio
-Paris Saint-Germain - Zenit Saint Petersburg
-Real Sociedad - Paris Saint-Germain
-Zenit Saint Petersburg - Real Sociedad
-AC Milan   - Juventus
-Atlético Madrid - AC Milan  
-Juventus - Atlético Madrid
-Inter Milan - Lens
-Galatasaray - Inter Milan
-Lens - Galatasaray
-Newcastle United - Bayer Leverkusen
-Sevilla - Newcastle United
-Bayer Leverkusen - Sevilla
-Manchester City - Copenhagen
-Young Boys - Manchester City
-Copenhagen - Young Boys
-Bayern Munich - Crvena Zvezda
+Lazio - Atlético Madrid
+Olympique de Marseille - Lazio
+Atlético Madrid - Olympique de Marseille
+K.R.C. Genk - Manchester City
+Chelsea - K.R.C. Genk
+Manchester City - Chelsea
+Bayer Leverkusen - AFC Ajax
+Olympiacos - Bayer Leverkusen
+AFC Ajax - Olympiacos
+Porto - Sibir Novosibirsk
+Tottenham Hotspur - Porto
+Sibir Novosibirsk - Tottenham Hotspur
 Benfica - Bayern Munich
-RB Leipzig - Benfica
-Union Berlin - RB Leipzig
-Spartak Moscow - Union Berlin
-Borussia Dortmund - Spartak Moscow
-Royal Antwerp - Borussia Dortmund
-Barcelona - Royal Antwerp
-Celtic - Barcelona
-CSKA Moscow - Celtic
-Braga - CSKA Moscow
-Real Madrid - Braga
-Napoli - Real Madrid
-Feyenoord - Napoli
-Porto - Feyenoord
-Arsenal - Porto
-PSV Eindhoven - Arsenal
-Crvena Zvezda - PSV Eindhoven
-Bayern Munich - Shakhtar Donetsk
-Red Bull Salzburg - Bayern Munich
-RB Leipzig - Red Bull Salzburg
-Lazio - RB Leipzig
-Spartak Moscow - Lazio
-Paris Saint-Germain - Spartak Moscow
-Royal Antwerp - Paris Saint-Germain
-Zenit Saint Petersburg - Royal Antwerp
-Celtic - Zenit Saint Petersburg
-Real Sociedad - Celtic
-Braga - Real Sociedad
-AC Milan   - Braga
-Napoli - AC Milan  
-Juventus - Napoli
-Porto - Juventus
-Atlético Madrid - Porto
-PSV Eindhoven - Atlético Madrid
-Shakhtar Donetsk - PSV Eindhoven
+Inter Milan - Benfica
 Bayern Munich - Inter Milan
-Lens - Bayern Munich
-RB Leipzig - Lens
-Galatasaray - RB Leipzig
-Spartak Moscow - Galatasaray
-Newcastle United - Spartak Moscow
-Royal Antwerp - Newcastle United
-Bayer Leverkusen - Royal Antwerp
-Celtic - Bayer Leverkusen
-Sevilla - Celtic
-Braga - Sevilla
-Manchester City - Braga
-Napoli - Manchester City
-Copenhagen - Napoli
-Porto - Copenhagen
-Young Boys - Porto
-PSV Eindhoven - Young Boys
-Inter Milan - PSV Eindhoven
-Crvena Zvezda - Shakhtar Donetsk
-Red Bull Salzburg - Crvena Zvezda
-Benfica - Red Bull Salzburg
-Lazio - Benfica
-Union Berlin - Lazio
-Paris Saint-Germain - Union Berlin
-Borussia Dortmund - Paris Saint-Germain
-Zenit Saint Petersburg - Borussia Dortmund
-Barcelona - Zenit Saint Petersburg
-Real Sociedad - Barcelona
-CSKA Moscow - Real Sociedad
-AC Milan   - CSKA Moscow
-Real Madrid - AC Milan  
-Juventus - Real Madrid
-Feyenoord - Juventus
-Atlético Madrid - Feyenoord
-Arsenal - Atlético Madrid
-Shakhtar Donetsk - Arsenal
-Crvena Zvezda - Inter Milan
-Lens - Crvena Zvezda
-Benfica - Lens
-Galatasaray - Benfica
-Union Berlin - Galatasaray
-Newcastle United - Union Berlin
-Borussia Dortmund - Newcastle United
-Bayer Leverkusen - Borussia Dortmund
-Barcelona - Bayer Leverkusen
-Sevilla - Barcelona
-CSKA Moscow - Sevilla
-Manchester City - CSKA Moscow
-Real Madrid - Manchester City
-Copenhagen - Real Madrid
-Feyenoord - Copenhagen
-Young Boys - Feyenoord
-Arsenal - Young Boys
-Inter Milan - Arsenal
-Shakhtar Donetsk - Inter Milan
-Lens - Shakhtar Donetsk
-Red Bull Salzburg - Lens
-Galatasaray - Red Bull Salzburg
-Lazio - Galatasaray
-Newcastle United - Lazio
-Paris Saint-Germain - Newcastle United
-Bayer Leverkusen - Paris Saint-Germain
-Zenit Saint Petersburg - Bayer Leverkusen
-Sevilla - Zenit Saint Petersburg
-Real Sociedad - Sevilla
-Manchester City - Real Sociedad
-AC Milan   - Manchester City
-Copenhagen - AC Milan  
-Juventus - Copenhagen
-Young Boys - Juventus
-Atlético Madrid - Young Boys
-Inter Milan - Atlético Madrid
+AC Milan   - Arsenal
+Olimpia - AC Milan  
+Arsenal - Olimpia
+CSKA Moscow - Villarreal
+Paris Saint-Germain - CSKA Moscow
+Villarreal - Paris Saint-Germain
+FK Partizan - Borussia Dortmund
+Shakhtar Donetsk - FK Partizan
+Borussia Dortmund - Shakhtar Donetsk
+Manchester United - Eintracht Frankfurt
+AS Monaco - Manchester United
+Eintracht Frankfurt - AS Monaco
+Barcelona - Juventus
+OKA - Barcelona
+Juventus - OKA
+Crvena Zvezda - Porto 2
+Spartak Moscow - Crvena Zvezda
+Porto 2 - Spartak Moscow
+Real Madrid - Paok
+PSV Eindhoven - Real Madrid
+Paok - PSV Eindhoven
+Lazio - Porto
+Sibir Novosibirsk - Lazio
+Atlético Madrid - Sibir Novosibirsk
+Tottenham Hotspur - Atlético Madrid
+Olympique de Marseille - Tottenham Hotspur
+Benfica - Olympique de Marseille
+K.R.C. Genk - Benfica
+Bayern Munich - K.R.C. Genk
+Manchester City - Bayern Munich
+Inter Milan - Manchester City
+Chelsea - Inter Milan
+AC Milan   - Chelsea
+Bayer Leverkusen - AC Milan  
+Arsenal - Bayer Leverkusen
+AFC Ajax - Arsenal
+Olimpia - AFC Ajax
+Olympiacos - Olimpia
+Porto - Olympiacos
+Lazio - CSKA Moscow
+Villarreal - Lazio
+Atlético Madrid - Villarreal
+Paris Saint-Germain - Atlético Madrid
+Olympique de Marseille - Paris Saint-Germain
+FK Partizan - Olympique de Marseille
+K.R.C. Genk - FK Partizan
+Borussia Dortmund - K.R.C. Genk
+Manchester City - Borussia Dortmund
+Shakhtar Donetsk - Manchester City
+Chelsea - Shakhtar Donetsk
+Manchester United - Chelsea
+Bayer Leverkusen - Manchester United
+Eintracht Frankfurt - Bayer Leverkusen
+AFC Ajax - Eintracht Frankfurt
+AS Monaco - AFC Ajax
+Olympiacos - AS Monaco
+CSKA Moscow - Olympiacos
+Lazio - Barcelona
+Juventus - Lazio
+Atlético Madrid - Juventus
+OKA - Atlético Madrid
+Olympique de Marseille - OKA
+Crvena Zvezda - Olympique de Marseille
+K.R.C. Genk - Crvena Zvezda
+Porto 2 - K.R.C. Genk
+Manchester City - Porto 2
+Spartak Moscow - Manchester City
+Chelsea - Spartak Moscow
+Real Madrid - Chelsea
+Bayer Leverkusen - Real Madrid
+Paok - Bayer Leverkusen
+AFC Ajax - Paok
+PSV Eindhoven - AFC Ajax
+Olympiacos - PSV Eindhoven
+Barcelona - Olympiacos
+Porto - CSKA Moscow
+Villarreal - Porto
+Sibir Novosibirsk - Villarreal
+Paris Saint-Germain - Sibir Novosibirsk
+Tottenham Hotspur - Paris Saint-Germain
+FK Partizan - Tottenham Hotspur
+Benfica - FK Partizan
+Borussia Dortmund - Benfica
+Bayern Munich - Borussia Dortmund
+Shakhtar Donetsk - Bayern Munich
+Inter Milan - Shakhtar Donetsk
+Manchester United - Inter Milan
+AC Milan   - Manchester United
+Eintracht Frankfurt - AC Milan  
+Arsenal - Eintracht Frankfurt
+AS Monaco - Arsenal
+Olimpia - AS Monaco
+CSKA Moscow - Olimpia
+Porto - Barcelona
+Juventus - Porto
+Sibir Novosibirsk - Juventus
+OKA - Sibir Novosibirsk
+Tottenham Hotspur - OKA
+Crvena Zvezda - Tottenham Hotspur
+Benfica - Crvena Zvezda
+Porto 2 - Benfica
+Bayern Munich - Porto 2
+Spartak Moscow - Bayern Munich
+Inter Milan - Spartak Moscow
+Real Madrid - Inter Milan
+AC Milan   - Real Madrid
+Paok - AC Milan  
+Arsenal - Paok
+PSV Eindhoven - Arsenal
+Olimpia - PSV Eindhoven
+Barcelona - Olimpia
+CSKA Moscow - Barcelona
+Juventus - CSKA Moscow
+Villarreal - Juventus
+OKA - Villarreal
+Paris Saint-Germain - OKA
+Crvena Zvezda - Paris Saint-Germain
+FK Partizan - Crvena Zvezda
+Porto 2 - FK Partizan
+Borussia Dortmund - Porto 2
+Spartak Moscow - Borussia Dortmund
+Shakhtar Donetsk - Spartak Moscow
+Real Madrid - Shakhtar Donetsk
+Manchester United - Real Madrid
+Paok - Manchester United
+Eintracht Frankfurt - Paok
+PSV Eindhoven - Eintracht Frankfurt
+AS Monaco - PSV Eindhoven
+Barcelona - AS Monaco
