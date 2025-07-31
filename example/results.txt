@@ -1,0 +1,189 @@
+Bucket A:
+Bayern Munich
+RB Leipzig
+Spartak Moscow
+Royal Antwerp
+Celtic
+Braga
+Napoli
+Porto
+PSV Eindhoven
+
+Bucket B:
+Crvena Zvezda
+Benfica
+Union Berlin
+Borussia Dortmund
+Barcelona
+CSKA Moscow
+Real Madrid
+Feyenoord
+Arsenal
+
+Bucket C:
+Shakhtar Donetsk
+Red Bull Salzburg
+Lazio
+Paris Saint-Germain
+Zenit Saint Petersburg
+Real Sociedad
+AC Milan  
+Juventus
+Atlético Madrid
+
+Bucket D:
+Inter Milan
+Lens
+Galatasaray
+Newcastle United
+Bayer Leverkusen
+Sevilla
+Manchester City
+Copenhagen
+Young Boys
+
+Matches:
+Bayern Munich - RB Leipzig
+Spartak Moscow - Bayern Munich
+RB Leipzig - Spartak Moscow
+Royal Antwerp - Celtic
+Braga - Royal Antwerp
+Celtic - Braga
+Napoli - Porto
+PSV Eindhoven - Napoli
+Porto - PSV Eindhoven
+Crvena Zvezda - Benfica
+Union Berlin - Crvena Zvezda
+Benfica - Union Berlin
+Borussia Dortmund - Barcelona
+CSKA Moscow - Borussia Dortmund
+Barcelona - CSKA Moscow
+Real Madrid - Feyenoord
+Arsenal - Real Madrid
+Feyenoord - Arsenal
+Shakhtar Donetsk - Red Bull Salzburg
+Lazio - Shakhtar Donetsk
+Red Bull Salzburg - Lazio
+Paris Saint-Germain - Zenit Saint Petersburg
+Real Sociedad - Paris Saint-Germain
+Zenit Saint Petersburg - Real Sociedad
+AC Milan   - Juventus
+Atlético Madrid - AC Milan  
+Juventus - Atlético Madrid
+Inter Milan - Lens
+Galatasaray - Inter Milan
+Lens - Galatasaray
+Newcastle United - Bayer Leverkusen
+Sevilla - Newcastle United
+Bayer Leverkusen - Sevilla
+Manchester City - Copenhagen
+Young Boys - Manchester City
+Copenhagen - Young Boys
+Bayern Munich - Crvena Zvezda
+Benfica - Bayern Munich
+RB Leipzig - Benfica
+Union Berlin - RB Leipzig
+Spartak Moscow - Union Berlin
+Borussia Dortmund - Spartak Moscow
+Royal Antwerp - Borussia Dortmund
+Barcelona - Royal Antwerp
+Celtic - Barcelona
+CSKA Moscow - Celtic
+Braga - CSKA Moscow
+Real Madrid - Braga
+Napoli - Real Madrid
+Feyenoord - Napoli
+Porto - Feyenoord
+Arsenal - Porto
+PSV Eindhoven - Arsenal
+Crvena Zvezda - PSV Eindhoven
+Bayern Munich - Shakhtar Donetsk
+Red Bull Salzburg - Bayern Munich
+RB Leipzig - Red Bull Salzburg
+Lazio - RB Leipzig
+Spartak Moscow - Lazio
+Paris Saint-Germain - Spartak Moscow
+Royal Antwerp - Paris Saint-Germain
+Zenit Saint Petersburg - Royal Antwerp
+Celtic - Zenit Saint Petersburg
+Real Sociedad - Celtic
+Braga - Real Sociedad
+AC Milan   - Braga
+Napoli - AC Milan  
+Juventus - Napoli
+Porto - Juventus
+Atlético Madrid - Porto
+PSV Eindhoven - Atlético Madrid
+Shakhtar Donetsk - PSV Eindhoven
+Bayern Munich - Inter Milan
+Lens - Bayern Munich
+RB Leipzig - Lens
+Galatasaray - RB Leipzig
+Spartak Moscow - Galatasaray
+Newcastle United - Spartak Moscow
+Royal Antwerp - Newcastle United
+Bayer Leverkusen - Royal Antwerp
+Celtic - Bayer Leverkusen
+Sevilla - Celtic
+Braga - Sevilla
+Manchester City - Braga
+Napoli - Manchester City
+Copenhagen - Napoli
+Porto - Copenhagen
+Young Boys - Porto
+PSV Eindhoven - Young Boys
+Inter Milan - PSV Eindhoven
+Crvena Zvezda - Shakhtar Donetsk
+Red Bull Salzburg - Crvena Zvezda
+Benfica - Red Bull Salzburg
+Lazio - Benfica
+Union Berlin - Lazio
+Paris Saint-Germain - Union Berlin
+Borussia Dortmund - Paris Saint-Germain
+Zenit Saint Petersburg - Borussia Dortmund
+Barcelona - Zenit Saint Petersburg
+Real Sociedad - Barcelona
+CSKA Moscow - Real Sociedad
+AC Milan   - CSKA Moscow
+Real Madrid - AC Milan  
+Juventus - Real Madrid
+Feyenoord - Juventus
+Atlético Madrid - Feyenoord
+Arsenal - Atlético Madrid
+Shakhtar Donetsk - Arsenal
+Crvena Zvezda - Inter Milan
+Lens - Crvena Zvezda
+Benfica - Lens
+Galatasaray - Benfica
+Union Berlin - Galatasaray
+Newcastle United - Union Berlin
+Borussia Dortmund - Newcastle United
+Bayer Leverkusen - Borussia Dortmund
+Barcelona - Bayer Leverkusen
+Sevilla - Barcelona
+CSKA Moscow - Sevilla
+Manchester City - CSKA Moscow
+Real Madrid - Manchester City
+Copenhagen - Real Madrid
+Feyenoord - Copenhagen
+Young Boys - Feyenoord
+Arsenal - Young Boys
+Inter Milan - Arsenal
+Shakhtar Donetsk - Inter Milan
+Lens - Shakhtar Donetsk
+Red Bull Salzburg - Lens
+Galatasaray - Red Bull Salzburg
+Lazio - Galatasaray
+Newcastle United - Lazio
+Paris Saint-Germain - Newcastle United
+Bayer Leverkusen - Paris Saint-Germain
+Zenit Saint Petersburg - Bayer Leverkusen
+Sevilla - Zenit Saint Petersburg
+Real Sociedad - Sevilla
+Manchester City - Real Sociedad
+AC Milan   - Manchester City
+Copenhagen - AC Milan  
+Juventus - Copenhagen
+Young Boys - Juventus
+Atlético Madrid - Young Boys
+Inter Milan - Atlético Madrid
